@@ -1,0 +1,11 @@
+{
+    "name": "AnimeVietsub",
+    "type": "anime",
+    "url": "https://animevietsub.app/",
+    "searchable": true,
+    "language": "vi",
+    "metadata": {
+        "author": "gay",
+        "version": "1.0.0"
+    }
+}
