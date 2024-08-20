@@ -1,0 +1,11 @@
+{
+  "name": "AnimeVietsub Extension",
+  "description": "Extension for AnimeVietsub",
+  "version": "1.0.0",
+  "extensions": [
+    {
+      "name": "AnimeVietsub",
+      "url": "https://raw.githubusercontent.com/johnsmith896/cloudstream-animevietsub/main/animevietsub_extension.js"
+    }
+  ]
+}
